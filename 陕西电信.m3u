@@ -175,8 +175,8 @@ http://10.10.10.1:8888/udp/239.110.205.51:9930
 http://10.10.10.1:8888/udp/239.111.205.54:5140
 #EXTINF:-1 tvg-name="陕西1套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西1套-新闻资讯
 http://10.10.10.1:8888/udp/239.111.205.28:5140
-#EXTINF:-1 tvg-name="陕西2套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西2套-体育休闲
-http://10.10.10.1:8888/udp/239.111.205.36:5140
+#EXTINF:-1 tvg-name="陕西2套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西2套-都市青春
+http://10.10.10.1:8888/udp/239.111.205.42:5140
 #EXTINF:-1 tvg-name="陕西3套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西3套-生活
 http://10.10.10.1:8888/udp/239.111.205.98:5140
 #EXTINF:-1 tvg-name="陕西4套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西4套-影视
@@ -185,8 +185,8 @@ http://10.10.10.1:8888/udp/239.111.205.99:5140
 http://10.10.10.1:8888/udp/239.111.205.100:5140
 #EXTINF:-1 tvg-name="陕西6套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西6套-乐家购物
 http://10.10.10.1:8888/udp/239.111.205.101:5140
-#EXTINF:-1 tvg-name="陕西7套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西7套-都市青春
-http://10.10.10.1:8888/udp/239.111.205.42:5140
+#EXTINF:-1 tvg-name="陕西7套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西7套-体育休闲
+http://10.10.10.1:8888/udp/239.111.205.36:5140
 #EXTINF:-1 tvg-name="陕西8套" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="陕西",陕西8套-西部电影
 http://10.10.10.1:8888/udp/239.111.205.102:5140
 #EXTINF:-1 group-title="陕西",西安1套
