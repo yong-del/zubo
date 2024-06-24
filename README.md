@@ -23,3 +23,6 @@
 
 
 4.杭州电信，单线融合宽带iptv，完整的实现方式详见 https://www.bilibili.com/read/cv17493121 有帮助的话点个赞关注一波，谢谢
+
+广东电信iptv:
+https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List
