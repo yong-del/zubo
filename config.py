@@ -2,7 +2,7 @@ ip_version_priority = "ipv6"
 source_urls = [
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yong-del/searchZUBO/main/陕西电信.txt",
-    "https://raw.githubusercontent.com/yong-del/searchZUBO/main/北京联通.txt"，
+    "https://raw.githubusercontent.com/yong-del/searchZUBO/main/北京联通.txt",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "http://120.79.4.185/new/mdlive.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
