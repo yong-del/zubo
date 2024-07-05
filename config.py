@@ -17,7 +17,9 @@ source_urls = [
     "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
     "https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt",
     "https://fm1077.serv00.net/SmartTV.m3u",
-    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "https://raw.githubusercontent.com/yong-del/searchZUBO/main/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A.txt",
+    "https://raw.githubusercontent.com/yong-del/searchZUBO/main/%E9%99%95%E8%A5%BF%E7%94%B5%E4%BF%A1.txt"
 ]
 url_blacklist = [
     "epg.pw/stream/",
