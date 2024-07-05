@@ -1,6 +1,6 @@
 ip_version_priority = "ipv6"
 source_urls = [
-    "https://raw.githubusercontent.com/yong-del/searchZUBO/main/陕西电信.txt",
+    "https://raw.githubusercontent.com/lucheng7996/TE/main/outfiles/shaanxi_ctcc.txt",
     "https://raw.githubusercontent.com/yong-del/searchZUBO/main/北京联通.txt",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt"
    
