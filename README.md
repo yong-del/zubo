@@ -26,3 +26,5 @@
 
 广东电信iptv:
 https://github.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List
+
+https://github.com/hululu1068/MyConf/blob/0039447fac823486aa72e4ed8e1813a5a567afb7/IPTV/MYm3u/ZheJiang-CMCC-UDP.m3u
