@@ -5,7 +5,7 @@ https://liuliuliu.tv/api/channels/1997/stream
 https://liuliuliu.tv/api/channels/233/stream
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",更新日期
 https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4
-#EXTINF:-1 tvg-id="1" tvg-name="2024-07-17" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2024-07-17
+#EXTINF:-1 tvg-id="1" tvg-name="2024-07-18" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2024-07-18
 https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -44,22 +44,22 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="央视频道",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新闻资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新闻资讯.png" group-title="卫视频道",新闻资讯
-http://1.83.126.182:4022/udp/239.111.205.28:5140
+http://61.150.11.16:4444/udp/239.111.205.28:5140
 #EXTINF:-1 tvg-id="" tvg-name="都市青春" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/都市青春.png" group-title="卫视频道",都市青春
-http://1.83.126.182:4022/udp/239.111.205.42:5140
+http://61.150.11.16:4444/udp/239.111.205.42:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西生活" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/陕西生活.png" group-title="卫视频道",陕西生活
-http://1.83.126.182:4022/udp/239.112.205.20:5140
+http://61.150.11.16:4444/udp/239.112.205.20:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/陕西影视.png" group-title="卫视频道",陕西影视
-http://1.83.126.182:4022/udp/239.112.205.21:5140
+http://61.150.11.16:4444/udp/239.112.205.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="陕西公共" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/陕西公共.png" group-title="卫视频道",陕西公共
-http://1.83.126.182:4022/udp/239.112.205.22:5140
+http://61.150.11.16:4444/udp/239.112.205.22:5140
 #EXTINF:-1 tvg-id="" tvg-name="体育休闲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/体育休闲.png" group-title="卫视频道",体育休闲
-http://1.83.126.182:4022/udp/239.111.205.36:5140
+http://61.150.11.16:4444/udp/239.111.205.36:5140
 #EXTINF:-1 tvg-id="" tvg-name="西部电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/西部电影.png" group-title="卫视频道",西部电影
-http://1.83.126.182:4022/udp/239.111.205.41:5140
+http://61.150.11.16:4444/udp/239.111.205.41:5140
 #EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新闻综合.png" group-title="卫视频道",新闻综合
-http://1.83.126.182:4022/udp/239.111.205.242:5140
+http://61.150.11.16:4444/udp/239.111.205.242:5140
 #EXTINF:-1 tvg-id="" tvg-name="都市频道" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/都市频道.png" group-title="卫视频道",都市频道
-http://1.83.126.182:4022/udp/239.111.205.243:5140
+http://61.150.11.16:4444/udp/239.111.205.243:5140
 #EXTINF:-1 tvg-id="" tvg-name="商务资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/商务资讯.png" group-title="卫视频道",商务资讯
-http://1.83.126.182:4022/udp/239.112.205.174:5140
+http://61.150.11.16:4444/udp/239.112.205.174:5140
