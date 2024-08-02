@@ -1,8 +1,8 @@
 ip_version_priority = "ipv6"
 source_urls = [
-    "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-    "https://raw.githubusercontent.com/lucheng7996/TE/main/outfiles/shaanxi_ctcc.txt",
-    "https://raw.githubusercontent.com/yong-del/searchZUBO/main/北京联通.txt"
+    "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+    #"https://raw.githubusercontent.com/lucheng7996/TE/main/outfiles/shaanxi_ctcc.txt",
+    #"https://raw.githubusercontent.com/yong-del/searchZUBO/main/北京联通.txt"
    
 ]
 url_blacklist = [
