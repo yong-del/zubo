@@ -2,7 +2,6 @@
 更新日期,https://liuliuliu.tv/api/channels/1997/stream
 None,https://liuliuliu.tv/api/channels/233/stream
 📡  央视频道,#genre#
-CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$LR•IPV6
 CCTV2,http://125.113.166.115:8888/rtp/233.50.201.119:5140$LR•IPV4『线路1』
 CCTV2,http://125.113.167.201:8888/rtp/233.50.201.119:5140$LR•IPV4『线路2』
 CCTV2,http://115.230.248.217:9999/rtp/233.50.201.119:5140$LR•IPV4『线路3』
