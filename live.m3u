@@ -3,22 +3,6 @@
 https://liuliuliu.tv/api/channels/1997/stream
 #EXTINF:-1 tvg-id="1" tvg-name="None" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",None
 https://liuliuliu.tv/api/channels/233/stream
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="📡  央视频道",CCTV1
-http://125.113.166.115:8888/rtp/233.50.201.118:5140$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="📡  央视频道",CCTV1
-http://125.113.167.201:8888/rtp/233.50.201.118:5140$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="📡  央视频道",CCTV1
-http://115.230.248.217:9999/rtp/233.50.201.118:5140$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="📡  央视频道",CCTV1
-http:///rtp/239.254.96.96:8550$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="📡  央视频道",CCTV1
-http://120.38.46.242:9999/rtp/239.61.3.60:9878$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="📡  央视频道",CCTV1
-http://117.28.32.78:4022/rtp/239.61.3.60:9878$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="📡  央视频道",CCTV1
-http://59.61.122.230:8888/rtp/239.61.3.60:9878$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="📡  央视频道",CCTV1
-http:///udp/239.255.30.101:8231$LR•IPV4『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="📡  央视频道",CCTV2
 http://125.113.166.115:8888/rtp/233.50.201.119:5140$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="📡  央视频道",CCTV2
