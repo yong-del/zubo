@@ -2,23 +2,26 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '00 11 * * *'
+    - cron: '0 1/2 * * ?'
+
   workflow_dispatch:
-    branches:
-      - main
+
+env:
+  TZ: Asia/Shanghai
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
 
     steps:
+
     - name: Checkout repository
       uses: actions/checkout@v2
 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.10'
+        python-version: '3.12'
 
     - name: Cache dependencies
       uses: actions/cache@v2
@@ -31,6 +34,8 @@ jobs:
     - name: Install dependencies
       run: |
         pip install requests
+        pip install BeautifulSoup4
+        pip install lxml
 
     - name: Run Python script
       run: python main.py
