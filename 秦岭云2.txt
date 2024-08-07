@@ -62,3 +62,4 @@ CHC家庭影院,http://36.99.70.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/32212
 116.163.25.223
 116.163.25.232
 116.163.25.254
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
