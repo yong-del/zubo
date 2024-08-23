@@ -20,7 +20,6 @@ CCTV14少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/
 CCTV15音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$LR•IPV6
 CCTV16奥林匹克,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV6
 CCTV17农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$LR•IPV6
-CCTV4K超高清,https://pi.0472.org/livetv/cctv4k.m3u8$LR•IPV4
 CGTN英语,https://0472.org/hls/cgtn.m3u8$LR•IPV4
 卫视频道,#genre#
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$LR•IPV6
@@ -65,9 +64,6 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 广东频道,#genre#
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8$LR•IPV6
 数字频道,#genre#
-CHC影迷电影,https://pi.0472.org/livetv/chcym.m3u8$LR•IPV4
-CHC动作电影,https://pi.0472.org/livetv/chcdz.m3u8$LR•IPV4
-CHC家庭影院,https://pi.0472.org/livetv/chcjt.m3u8$LR•IPV4
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$LR•IPV6
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$LR•IPV6
 卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$LR•IPV6
